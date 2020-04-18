@@ -31,7 +31,6 @@ Unigram: = 78.20000
 Bigram: = 91.80000
 Trigram: = 99.00000
 
-
 Accuracy: Spanish vs Italian
 
 Unigram: = 67.00000
